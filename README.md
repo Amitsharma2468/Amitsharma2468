@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Amit Kumar Sharma</h1>
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=cartoon%20picture%20using%20pc&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fyoung-man-cartoon-character-holding-using-laptop-computer-pc-laptop-computer-technology-concept-flat-vector-illustration-isolated-white-background_1254992-240131.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fyoung-man-cartoon-character-holding-using-laptop-computer-pc-laptop-computer-technology-concept-flat-vector-illustration-isolated-white-background_335153453.htm&docid=eHdRjXjGAchR9M&tbnid=WQyCsKjzya-74M&vet=12ahUKEwjEzdCkgtOOAxXKyTgGHSEAIfQQM3oECCoQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwjEzdCkgtOOAxXKyTgGHSEAIfQQM3oECCoQAA" />
+  <img src="https://github.com/Amitsharma2468/Amitsharma2468/blob/main/cartoon.jpg" />
 </p>
 
 <p align="center">
