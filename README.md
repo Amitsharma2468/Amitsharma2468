@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Amit%20Kumar%20Sharma&fontSize=40&fontAlignY=25&animation=twinkling&fontColor=ffffff" />
+  <img src="https://github.com/Amitsharma2468.png" width="200" style="border-radius: 50%; border: 4px solid #0077B6;" />
 </div>
 
 <h1 align="center">
   👋
   Hey there! I'm 
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=500&lines=Amit+Kumar+Sharma;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=450&lines=Amit+Kumar+Sharma;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
 </h1>
 
 <div align="center">
-  <a href="https://amitkumarsharma.vercel.app">
+  <img src="https://github.com/Amitsharma2468.png" width="300" style="border-radius: 50%; border: 6px solid #0077B6;" />
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:amit09@student.sust.edu">
