@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Amitsharma2468.png" width="200" style="border-radius: 50%; border: 4px solid #0077B6;" />
+  <img src="https://github.com/Amitsharma2468/Amitsharma2468/blob/main/readmepic.jpeg" width="200" style="border-radius: 50%; border: 4px solid #0077B6;" />
 </div>
 
 <h1 align="center">
