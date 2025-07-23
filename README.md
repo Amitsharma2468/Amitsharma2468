@@ -10,7 +10,8 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+   <a href="https://amitkumarsharma.vercel.app/">
+     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:amit09@student.sust.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
