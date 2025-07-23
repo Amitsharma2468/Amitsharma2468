@@ -1,36 +1,96 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Sharma</h1>
+<h1 align="center">Hey there 👋, I'm Amit Kumar Sharma</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumonta056/sumonta056/main/assets/cartoon.gif" width="200"/>
+  <img src="https://www.google.com/imgres?q=cartoon%20picture%20using%20pc&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fyoung-man-cartoon-character-holding-using-laptop-computer-pc-laptop-computer-technology-concept-flat-vector-illustration-isolated-white-background_1254992-240131.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fyoung-man-cartoon-character-holding-using-laptop-computer-pc-laptop-computer-technology-concept-flat-vector-illustration-isolated-white-background_335153453.htm&docid=eHdRjXjGAchR9M&tbnid=WQyCsKjzya-74M&vet=12ahUKEwjEzdCkgtOOAxXKyTgGHSEAIfQQM3oECCoQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwjEzdCkgtOOAxXKyTgGHSEAIfQQM3oECCoQAA" />
 </p>
 
 <p align="center">
-  💻 Passionate MERN Stack Developer | 💬 Open Source Enthusiast <br />
-  🎓 Software Engineering @ SUST | 🚀 Problem Solver on Codeforces & Codechef
+  <strong>Full Stack MERN Developer</strong> | Open Source Contributor | Software Engineer @ SUST  
 </p>
+<p align="center">
+  <a href="https://amitkumarsharma.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:amit09@student.sust.edu" target="_blank">📧 Email</a> •
+  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/Amitsharma2468" target="_blank">💻 GitHub</a>
+</p>
+
+---
+
+### 🧠 About Me
+
+🎓 I’m currently pursuing BSc in Software Engineering at Shahjalal University of Science and Technology  
+💻 I love building full-stack web apps using the **MERN stack**, and I'm passionate about clean code & scalable architecture  
+💬 I’m actively solving problems on Codeforces & Codechef to sharpen my algorithms & logic  
+🚀 Always learning and building something new!
 
 ---
 
 ### 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+
+#### 🧰 Technologies & Tools
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat&logo=mui)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat&logo=cloudinary)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=githubactions)
+![Leaflet](https://img.shields.io/badge/-Leaflet-black?style=flat&logo=leaflet)
+![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat)
 
 ---
 
-### 📈 GitHub Stats
+### 🧩 Featured Projects
+
+#### 🔹 [ICERIE 2025 – International Conference Site](https://icerie2025.sust.edu)
+> 🔐 Integrated SUST e-Payment Gateway – 1.9M+ BDT processed  
+> 👥 800+ participant registration with validation  
+> 🔧 Tech: Node.js, Express, MongoDB
+
+#### 🔹 [AllForU – Sponsorship Platform](https://portal.afu.sg)
+> 🔁 5-step dynamic sponsorship form with infinite scroll  
+> 🛠️ Admin CRM and backend usability improvements  
+> 🔧 Tech: Next.js, React Query, MongoDB
+
+#### 🔹 [Service Connect – Home Services Platform](https://github.com/Amitsharma2468/Service-Connect-350)
+> 🗺️ Map-based service discovery, secure auth, messaging  
+> 📅 Booking, AI Chatbot support, SSLCommerz integration  
+> 🔧 Tech: Next.js, Express.js, Cloudinary, Nodemailer
+
+#### 🔹 [Happy Voting – Android Voting App](https://github.com/Amitsharma2468/Happy-Voting)
+> ✅ Real-time vote tracking, secure login  
+> 🔧 Tech: Java, Firebase
+
+#### 🔹 [Personality Detection](https://github.com/Amitsharma2468/personalitydetection)
+> 🧠 Deep Learning-powered introvert/extrovert predictor  
+> 🔧 Tech: Python, Flask, TensorFlow, Next.js
+
+---
+
+### 🏆 Achievements
+
+- 🧠 Codeforces [Pupil Rank](https://codeforces.com/profile/AmitSharma) – 650+ problems solved
+- ⭐ Codechef [3-Star Coder](https://www.codechef.com/users/amitsharma_km)
+- 📜 Completed Python & Data Science under BCC-ICT (EDGE Project)
+- 🎖️ Web Dev & Volunteering at ICERIE 2025
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitsharma2468&show_icons=true&theme=radical" width="47%" />
@@ -39,31 +99,17 @@
 
 ---
 
-### 📚 Projects
+### 📫 Contact Me
 
-- 🔗 [ICERIE 2025 Conference Platform](https://icerie2025.sust.edu) – Payment Gateway, 800+ participants, 1.9M+ BDT processed
-- 🔗 [AllForU Sponsorship Platform](https://portal.afu.sg/) – 5-step form, CRM Panel
-- 🔗 [Service Connect](https://github.com/Amitsharma2468/Service-Connect-350) – Real-time messaging, Map-based service
-- 🔗 [Happy Voting App](https://github.com/Amitsharma2468/Happy-Voting) – Firebase-based secure voting
-- 🔗 [Personality Detection AI](https://github.com/Amitsharma2468/personalitydetection) – Flask + Deep Learning + Next.js
-
----
-
-### 🏆 Achievements
-
-- Codeforces: 650+ problems solved | [Profile](https://codeforces.com/profile/AmitSharma)
-- Codechef: 3⭐ rated | [Profile](https://www.codechef.com/users/amitsharma_km)
-- 🧠 Completed Python & Data Science Training under BCC-ICT
+<p align="center">
+  <a href="https://amitkumarsharma.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:amit09@student.sust.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Amitsharma2468"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://amitkumarsharma.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-sharma-sust/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Amitsharma2468)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amit09@student.sust.edu)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p align="center">
+  <em>“First, solve the problem. Then, write the code.” – John Johnson</em>
+</p>
