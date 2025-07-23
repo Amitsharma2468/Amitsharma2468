@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Amitsharma2468/Amitsharma2468/blob/main/cartoon.jpg" width="200" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/Amitsharma2468" width="200" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+  👋
   Hey there! I'm 
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=500&lines=Amit+Kumar+Sharma;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
 </h1>
@@ -34,7 +34,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="50" /> About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -48,37 +48,37 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" /> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30" /> Frontend Development
+### 💻 Frontend Development
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui,redux,bootstrap" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Backend Development
+### ⚙️ Backend Development
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,php,graphql" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="30" /> Database & Cloud
+### 🗄️ Database & Cloud
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis,cloudflare" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30" /> DevOps & Tools
+### 🔧 DevOps & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,postman,figma" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="30" /> Mobile & Others
+### 📱 Mobile & Others
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,tensorflow,opencv,linux" />
@@ -86,7 +86,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -151,28 +151,28 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="50" /> Achievements & Recognition
+## 🏆 Achievements & Recognition
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60" />
+        🏆
         <br/><strong>Codeforces Pupil</strong>
         <br/>650+ Problems Solved
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="60" />
+        ⭐
         <br/><strong>CodeChef 3-Star</strong>
         <br/>Competitive Programming
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60" />
+        🎓
         <br/><strong>BCC-ICT Certified</strong>
         <br/>Python & Data Science
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="60" />
+        🌐
         <br/><strong>ICERIE 2025</strong>
         <br/>Web Dev & Volunteer
       </td>
@@ -182,7 +182,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amitsharma2468&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -199,7 +199,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="50" /> Let's Connect!
+## 📞 Let's Connect!
 
 <div align="center">
   <a href="https://amitkumarsharma.vercel.app" target="_blank">
