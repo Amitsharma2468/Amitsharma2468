@@ -10,7 +10,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/Amitsharma2468.png" width="300" style="border-radius: 50%; border: 6px solid #0077B6;" />
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:amit09@student.sust.edu">
