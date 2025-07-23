@@ -8,12 +8,11 @@
   <strong>Full Stack MERN Developer</strong> | Open Source Contributor | Software Engineer @ SUST  
 </p>
 <p align="center">
-  <a href="https://amitkumarsharma.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:amit09@student.sust.edu" target="_blank">📧 Email</a> •
-  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/Amitsharma2468" target="_blank">💻 GitHub</a>
+  <a href="https://amitkumarsharma.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:amit09@student.sust.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Amitsharma2468"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
 ---
 
 ### 🧠 About Me
@@ -102,10 +101,10 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="https://amitkumarsharma.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:amit09@student.sust.edu"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Amitsharma2468"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://amitkumarsharma.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:amit09@student.sust.edu" target="_blank">📧 Email</a> •
+  <a href="https://linkedin.com/in/amit-kumar-sharma-sust/" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/Amitsharma2468" target="_blank">💻 GitHub</a>
 </p>
 
 ---
