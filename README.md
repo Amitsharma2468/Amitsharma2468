@@ -1,21 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFDD00,30:48CAE4,75:0077B6,100:023E8A&height=200&section=header&text=Amit%20Kumar%20Sharma&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Amit%20Kumar%20Sharma&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Amitsharma2468" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Amitsharma2468.png" width="200" style="border-radius: 50%; border: 4px solid #0077B6;" />
 </div>
 
 <h1 align="center">
   👋
   Hey there! I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=500&lines=Amit+Kumar+Sharma;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=500&lines=Amit+Kumar+Sharma;Full+Stack+MERN+Developer;Open+Source+Contributor;Software+Engineer" />
 </h1>
-
-<div align="center">
-  <img src="https://komarev.com/github-profile-counter?username=Amitsharma2468&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Amitsharma2468?label=Followers&style=social" alt="GitHub followers" />
-</div>
 
 <div align="center">
   <a href="https://amitkumarsharma.vercel.app">
@@ -51,7 +47,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" />
 </div>
 
 ### 💻 Frontend Development
@@ -223,7 +219,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFDD00,30:48CAE4,75:0077B6,100:023E8A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 </div>
 
 ---
