@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Amitsharma2468/Amitsharma2468/blob/main/profilerd1.jpeg" width="240" style="border-radius: 50%; border: 4px solid #0077B6;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBwZWM5N2EzcjQyaHdrMGwyZjRuaG1sMWd1bmVlcDZxM3JocnYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="MasterHead" />
 </div>
 
 <h1 align="center">
