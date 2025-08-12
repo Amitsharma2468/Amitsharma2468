@@ -40,41 +40,16 @@
 
 <br/>
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" />
-</div>
-
-### 💻 Frontend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui,redux,bootstrap" />
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,php,graphql" />
-</div>
-
-### 🗄️ Database & Cloud
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis,cloudflare" />
-</div>
-
-### 🔧 DevOps & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,postman,figma" />
-</div>
-
-### 📱 Mobile & Others
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,tensorflow,opencv,linux" />
-</div>
+🛠️ Tech Arsenal
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" /> </div>
+💻 Frontend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui" /> </div>
+⚙️ Backend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" /> </div>
+🗄️ Database & Cloud
+<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </div>
+🔧 Tools & Services
+<div align="center"> <img src="https://skillicons.dev/icons?i=github,git" /> <img src="https://img.shields.io/badge/Cloudinary-%233776AB.svg?logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-%230072C6.svg?logo=websocket&logoColor=white" /> </div>
 
 <br/>
 
