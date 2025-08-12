@@ -52,68 +52,8 @@
 <div align="center"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-0072C6?logo=websocket&logoColor=white" /> </div>
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 ICERIE 2025 Conference</h3>
-        <div align="center">
-          <a href="https://icerie2025.sust.edu" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
-          </a>
-          <br/><br/>
-          <p><strong>Payment Gateway Integration</strong></p>
-          <p>🔐 Processed 1.9M+ BDT transactions</p>
-          <p>👥 Managed 800+ participant registrations</p>
-          <p>⚡ Built with Node.js, Express, MongoDB</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💼 AllForU Sponsorship Platform</h3>
-        <div align="center">
-          <a href="https://portal.afu.sg" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" />
-          </a>
-          <br/><br/>
-          <p><strong>Dynamic Form System</strong></p>
-          <p>🔁 5-step sponsorship workflow</p>
-          <p>🛠️ Complete Admin CRM system</p>
-          <p>⚡ Built with Next.js, React Query</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 Service Connect Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Amitsharma2468/Service-Connect-350" target="_blank">
-            <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
-          </a>
-          <br/><br/>
-          <p><strong>Home Services Marketplace</strong></p>
-          <p>🗺️ Map-based service discovery</p>
-          <p>🤖 AI Chatbot integration</p>
-          <p>⚡ Next.js, Express, Cloudinary</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🗳️ Happy Voting App</h3>
-        <div align="center">
-          <a href="https://github.com/Amitsharma2468/Happy-Voting" target="_blank">
-            <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" />
-          </a>
-          <br/><br/>
-          <p><strong>Android Voting System</strong></p>
-          <p>📊 Real-time vote tracking</p>
-          <p>🔐 Secure authentication</p>
-          <p>⚡ Java, Firebase</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+🚀 Featured Projects
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🎓 ICERIE 2025 – International Conference</h3> <div align="center"> <a href="https://icerie2025.sust.edu" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" /> </a> <br/><br/> <p><strong>Payment Gateway Integration</strong></p> <p>🔐 Processed 2.0M+ BDT transactions</p> <p>👥 Managed 800+ participant registrations</p> <p>⚡ Built with Next.js, Express.js, Node.js, MongoDB</p> </div> </td> <td width="50%"> <h3 align="center">💼 AllForU – Sponsorship Platform</h3> <div align="center"> <a href="https://portal.afu.sg" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" /> </a> <br/><br/> <p><strong>Dynamic Form & Admin Panel</strong></p> <p>🔁 5-step sponsorship workflow</p> <p>🛠️ 4 core admin CRM features</p> <p>⚡ Built with Next.js, React Query, Material UI</p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">🚗 Electro – Smart Mobility Platform</h3> <div align="center"> <a href="https://electro-navy.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel" /> </a> <br/><br/> <p><strong>Mobility Service Management</strong></p> <p>📱 Developed 4 essential features</p> <p>⚡ Optimized performance & SSR</p> <p>🛠️ Next.js, Tailwind CSS, ShadCN UI</p> </div> </td> <td width="50%"> <h3 align="center">🏠 Service Connect – Household Services</h3> <div align="center"> <a href="https://github.com/Amitsharma2468/Service-Connect-350" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" /> </a> <br/><br/> <p><strong>On-Demand Marketplace</strong></p> <p>🗺️ Map-based service discovery</p> <p>💬 Real-time messaging (WebSocket)</p> <p>⚡ Next.js, Express.js, MongoDB, Cloudinary</p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">🗳️ Happy Voting – Android App</h3> <div align="center"> <a href="https://github.com/Amitsharma2468/Happy-Voting" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" /> </a> <br/><br/> <p><strong>Digital Voting System</strong></p> <p>📊 Real-time vote tracking</p> <p>🔐 Secure authentication</p> <p>⚡ Java, Firebase</p> </div> </td> <td width="50%"> <h3 align="center">🧠 Personality Detection – Extrovert/Introvert</h3> <div align="center"> <a href="https://github.com/Amitsharma2468/personalitydetection" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github" /> </a> <br/><br/> <p><strong>AI Personality Classifier</strong></p> <p>🤖 Deep learning model training</p> <p>🖥️ Flask API + Next.js frontend</p> <p>⚡ Python, Flask, Next.js</p> </div> </td> </tr> </table> </div>
 
 <br/>
 
