@@ -57,34 +57,13 @@
 
 <br/>
 
-## 🏆 Achievements & Recognition
+💡 Competitive Programming
+<div align="center"> <table> <tr> <td align="center" width="33%"> <a href="https://codeforces.com/profile/AmitSharma" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces" /><br/> </a> <strong>650+ Problems Solved</strong> </td> <td align="center" width="33%"> <a href="https://www.codechef.com/users/amitsharma_km" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-3_Star-orange?style=for-the-badge&logo=codechef" /><br/> </a> <strong>100+ Problems Solved</strong> </td> <td align="center" width="33%"> <a href="https://leetcode.com/u/Amit_Sharma_09/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Active-black?style=for-the-badge&logo=leetcode" /><br/> </a> <strong>Practised on Vjudge & LeetCode</strong> </td> </tr> </table> </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        🏆
-        <br/><strong>Codeforces Pupil</strong>
-        <br/>650+ Problems Solved
-      </td>
-      <td align="center" width="25%">
-        ⭐
-        <br/><strong>CodeChef 3-Star</strong>
-        <br/>Competitive Programming
-      </td>
-      <td align="center" width="25%">
-        🎓
-        <br/><strong>BCC-ICT Certified</strong>
-        <br/>Python & Data Science
-      </td>
-      <td align="center" width="25%">
-        🌐
-        <br/><strong>ICERIE 2025</strong>
-        <br/>Web Dev & Volunteer
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
+
+📜 Certifications & Achievements
+<div align="center"> <table> <tr> <td align="center" width="33%"> <a href="https://www.linkedin.com/posts/amit-kumar-sharma-sust_excited-to-share-that-ive-successfully-completed-activity-7343079097054478336-U_De" target="_blank"> <img src="https://img.shields.io/badge/BCC--ICT_Certified-Python_%26_Data_Science-blue?style=for-the-badge&logo=python" /><br/> </a> <strong>EDGE Project Training</strong> </td> <td align="center" width="33%"> <a href="https://www.linkedin.com/posts/amit-kumar-sharma-sust_volunteer-contribution-certificate-icerie-activity-7346968505952411648-4hUR" target="_blank"> <img src="https://img.shields.io/badge/ICERIE_2025-Web_Dev_%26_Volunteer-success?style=for-the-badge&logo=vercel" /><br/> </a> <strong>Registration & Payment Integration</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/ICPC_Participant-2021_2023_2024-yellow?style=for-the-badge&logo=icpc" /><br/> <strong>Asia Dhaka Preliminary Regional</strong> </td> </tr> </table> </div>
 
 <br/>
 
