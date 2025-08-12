@@ -41,15 +41,15 @@
 <br/>
 
 🛠️ Tech Arsenal
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+MERN+Specialist+%7C+Problem+Solver" /> </div>
+<div align="center">
 💻 Frontend Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui" /> </div>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" />
 ⚙️ Backend Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" /> </div>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC++-00599C?logo=cplusplus&logoColor=white" />
 🗄️ Database & Cloud
-<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /> </div>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 🔧 Tools & Services
-<div align="center"> <img src="https://skillicons.dev/icons?i=github,git" /> <img src="https://img.shields.io/badge/Cloudinary-%233776AB.svg?logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-%230072C6.svg?logo=websocket&logoColor=white" /> </div>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-0072C6?logo=websocket&logoColor=white" /> </div>
 
 <br/>
 
